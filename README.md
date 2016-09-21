@@ -12,3 +12,4 @@ new in master
 >>>>>>> master
 1
 2
+3
