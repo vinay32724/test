@@ -1,5 +1,6 @@
 # test
 hotfix
+bugfix-123
 # in develop branch
 adsfnkdav
 askindlkdmas
