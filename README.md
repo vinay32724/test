@@ -1,5 +1,5 @@
 # test
-hotfix
+hitfix
 ibugfix-123
 # in develop branch
 adsfnkdav
