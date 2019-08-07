@@ -16,7 +16,9 @@ sowhat
 ohmm`
 wedneds
 mine
+thursday
 sunday
 tuesday
 monday
+Saturaday
 Friday
