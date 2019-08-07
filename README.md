@@ -3,7 +3,7 @@ hitfix
 ibugfix-123
 # in develop branch
 pointadsfnkdav
-cataskindlkdmas
+icataskindlkdmas
 asfmdkamf
 jasjasfka
 supertest2
@@ -12,4 +12,5 @@ ne
 vk - try
 rabasa`
 hmm`
+mine
 sunday
