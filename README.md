@@ -21,3 +21,4 @@ sunday
 tuesday
 monday
 Saturaday
+Friday
