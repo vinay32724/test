@@ -18,3 +18,4 @@ wedneds
 mine
 sunday
 tuesday
+monday
