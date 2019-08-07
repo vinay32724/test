@@ -3,7 +3,7 @@ hitfix
 ibugfix-123
 # in develop branch
 pointadsfnkdav
-askindlkdmas
+cataskindlkdmas
 asfmdkamf
 asfka
 supertest2
