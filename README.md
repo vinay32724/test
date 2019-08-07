@@ -20,3 +20,4 @@ thursday
 sunday
 tuesday
 monday
+Saturaday
