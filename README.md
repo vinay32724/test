@@ -13,6 +13,8 @@ ne
 vk - try
 rabasa`
 sowhat
-hmm`
+ohmm`
+wedneds
 mine
 sunday
+tuesday
