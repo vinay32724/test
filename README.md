@@ -19,3 +19,4 @@ mine
 sunday
 tuesday
 monday
+Friday
